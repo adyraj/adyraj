@@ -2,9 +2,8 @@
 
 I'm passionate learner diving into the concepts of computing 💻
 
-- 🔭 I’m currently working on Linux, Automation    
-- 🌱 I’m currently learning DevOps  
-- 💬 Ask me about anything related to Linux/DevOps/Python  
+- 🔭 I’m currently working on DevOps and Cloud Computing 
+- 💬 Ask me about anything related to Linux/DevOps/Python/Cloud Computing  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raj-aditya/)  
 
 ### Languages and Tools:
