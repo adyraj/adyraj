@@ -4,8 +4,6 @@ I'm passionate learner diving into the concepts of computing 💻. I am a comput
 
 ## ⚡️ Few Quick Facts
 
-<img align="right" alt="GIF" src="https://github.com/adyraj/adyraj/blob/main/portfolio.gif?raw=true" width="380" height="200" />
-
 - 🔭 I’m currently working on DevOps and Cloud Computing.
 - 🌱 I’m currently learning about Serverless and System Engineering.
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/adyraj) and [LinkedIn](https://www.linkedin.com/in/raj-aditya/).
