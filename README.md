@@ -2,7 +2,7 @@
 
 I'm passionate learner diving into the concepts of computing 💻. I am a computer engineer from India skilled in <strong>Linux</strong>, <strong>DevOps</strong>, <strong>Cloud Computing</strong> and <strong>Automation</strong>. I have create some real industrial projects by integrating different tools and technologies. I have three <strong>Red Hat Global Certifications<strong/> and also I am a <strong>Red Hat Certified Engineer</strong>.
 
-## ⚡️ Few Quick Facts
+  <h2>⚡️ Few Quick Facts</h2>
 
 <img align="right" alt="GIF" src="https://github.com/adyraj/adyraj/blob/main/portfolio.gif?raw=true" width="380" height="200" />
 
