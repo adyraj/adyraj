@@ -2,18 +2,16 @@
 
 I'm passionate learner diving into the concepts of computing 💻. I am a computer engineer from India skilled in <strong>Linux</strong>, <strong>DevOps</strong>, <strong>Cloud Computing</strong> and <strong>Automation</strong>. I have create some real industrial projects by integrating different tools and technologies. I have three <strong>Red Hat Global Certifications<strong/> and also I am a <strong>Red Hat Certified Engineer</strong>.
 
-  <h2>⚡️ Few Quick Facts</h2>
+## ⚡️ Few Quick Facts
 
 <img align="right" alt="GIF" src="https://github.com/adyraj/adyraj/blob/main/portfolio.gif?raw=true" width="380" height="200" />
 
-<ul>
-<li>🔭 I’m currently working on <strong>DevOps</strong> and <strong>Cloud Computing</strong>.</li>
-<li>🌱 I’m currently learning about <strong>Serverless</strong>, <strong>System Engineering</strong>.</li>
-<li>👨‍💻 Most of my projects are available on [GitHub](https://github.com/adyraj) and [LinkedIn](https://www.linkedin.com/in/raj-aditya/).</li>
-<li>📝 I regulary write articles on [Medium](https://medium.com/@adyraj) as well as on [LinkedIn](https://www.linkedin.com/in/raj-aditya/).</li>
-<li>💬 Ask me about anything, I'd be happy to help.</li>
-<li>📫 Connect me on [LinkedIn](https://www.linkedin.com/in/raj-aditya/)</li>
-  </ul>
+- 🔭 I’m currently working on <strong>DevOps</strong> and <strong>Cloud Computing</strong>.
+- 🌱 I’m currently learning about <strong>Serverless</strong>, <strong>System Engineering</strong>.
+- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/adyraj) and [LinkedIn](https://www.linkedin.com/in/raj-aditya/).
+- 📝 I regulary write articles on [Medium](https://medium.com/@adyraj) as well as on [LinkedIn](https://www.linkedin.com/in/raj-aditya/).
+- 💬 Ask me about anything, I'd be happy to help.
+- 📫 Connect me on [LinkedIn](https://www.linkedin.com/in/raj-aditya/)
   
 ## &#x270d; Medium Posts
 
