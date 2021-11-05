@@ -3,16 +3,16 @@
 I'm passionate learner diving into the concepts of computing 💻. I am a computer engineer from India skilled in <strong>Linux</strong>, <strong>DevOps</strong>, <strong>Cloud Computing</strong> and <strong>Automation</strong>. I have create some real industrial projects by integrating different tools and technologies. I have three <strong>Red Hat Global Certifications</strong> and also I am a <strong>Red Hat Certified Engineer</strong>.
 
 ## ⚡️ Few Quick Facts
-  
+
 <img align="right" alt="GIF" src="https://github.com/adyraj/adyraj/blob/main/portfolio.gif?raw=true" width="380" height="200" />
 
-- 🔭 I’m currently working on <strong>DevOps</strong> and <strong>Cloud Computing.</strong>
-- 🌱 I’m currently learning about <strong>Serverless</strong> and <strong>System Engineering</strong>.
+- 🔭 I’m currently working on DevOps and Cloud Computing.
+- 🌱 I’m currently learning about Serverless and System Engineering.
 - 👨‍💻 Most of my projects are available on [GitHub](https://github.com/adyraj) and [LinkedIn](https://www.linkedin.com/in/raj-aditya/).
 - 📝 I regulary write articles on [Medium](https://medium.com/@adyraj) as well as on [LinkedIn](https://www.linkedin.com/in/raj-aditya/).
 - 💬 Ask me about anything, I'd be happy to help.
 - 📫 Connect me on [LinkedIn](https://www.linkedin.com/in/raj-aditya/)
-  
+
 ## &#x270d; Medium Posts
 
 - [Application of AI in Intrusion Detection System](https://medium.com/@adyraj/application-of-ai-in-intrusion-detection-system-9705d2efe050?source=user_profile---------4-------------------------------)<br/> <sub>2021-06-04</sub>
@@ -21,7 +21,6 @@ I'm passionate learner diving into the concepts of computing 💻. I am a comput
 - [High Availability Architecture of a Web Server using EBS, S3 & CloudFront on AWS](https://medium.com/@adyraj/high-availability-architecture-of-web-server-using-ebs-s3-cloudfront-on-aws-9bf3afc3070e?source=user_profile---------8-------------------------------)<br/><sub>2021-03-21</sub>
 - [Integrating LVM with Hadoop and providing Elasticity to DataNode Storage](https://medium.com/@adyraj/integrating-lvm-with-hadoop-and-providing-elasticity-to-datanode-storage-8a9541979fec?source=user_profile---------18-------------------------------)<br/><sub>2020-11-02</sub>
 - [AWS Command Line Interface (CLI)](https://medium.com/@adyraj/aws-command-line-interface-cli-69630827d6a4?source=user_profile---------23-------------------------------)<br/><sub>2020-10-13</sub>
-
 
 ## 🔧 Technologies & Tools
 
@@ -46,7 +45,7 @@ I'm passionate learner diving into the concepts of computing 💻. I am a comput
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  
+
 ## &#x1f4c8; GitHub Stats
 
 <p align='center'>
