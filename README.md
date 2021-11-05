@@ -6,13 +6,15 @@ I'm passionate learner diving into the concepts of computing 💻. I am a comput
 
 <img align="right" alt="GIF" src="https://github.com/adyraj/adyraj/blob/main/portfolio.gif?raw=true" width="380" height="200" />
 
-- 🔭 I’m currently working on <strong>DevOps</strong> and <strong>Cloud Computing</strong>. 
-- 🌱 I’m currently learning about <strong>Serverless</strong>, <strong>System Engineering</strong>.
-- 👨‍💻 Most of my projects are available on [GitHub](https://github.com/adyraj) and [LinkedIn](https://www.linkedin.com/in/raj-aditya/).
-- 📝 I regulary write articles on [Medium](https://medium.com/@adyraj) as well as on [LinkedIn](https://www.linkedin.com/in/raj-aditya/).
-- 💬 Ask me about anything, I'd be happy to help.
-- 📫 Connect me on [LinkedIn](https://www.linkedin.com/in/raj-aditya/)
-
+<ul>
+<li>🔭 I’m currently working on <strong>DevOps</strong> and <strong>Cloud Computing</strong>.</li>
+<li>🌱 I’m currently learning about <strong>Serverless</strong>, <strong>System Engineering</strong>.</li>
+<li>👨‍💻 Most of my projects are available on [GitHub](https://github.com/adyraj) and [LinkedIn](https://www.linkedin.com/in/raj-aditya/).</li>
+<li>📝 I regulary write articles on [Medium](https://medium.com/@adyraj) as well as on [LinkedIn](https://www.linkedin.com/in/raj-aditya/).</li>
+<li>💬 Ask me about anything, I'd be happy to help.</li>
+<li>📫 Connect me on [LinkedIn](https://www.linkedin.com/in/raj-aditya/)</li>
+  </ul>
+  
 ## &#x270d; Medium Posts
 
 - [Application of AI in Intrusion Detection System](https://medium.com/@adyraj/application-of-ai-in-intrusion-detection-system-9705d2efe050?source=user_profile---------4-------------------------------)<br/> <sub>2021-06-04</sub>
