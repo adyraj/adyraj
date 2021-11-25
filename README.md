@@ -49,7 +49,8 @@ I'm passionate learner diving into the concepts of computing 💻. I am a comput
 ## &#x1f4c8; GitHub Stats
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=adyraj&show_icons=true&count_private=true" alt="adyraj" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adyraj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adyraj&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ## Where to find me
