@@ -1,6 +1,6 @@
 # Namaste, I'm [Aditya](https://www.linkedin.com/in/raj-aditya/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm passionate learner diving into the concepts of computing 💻. I am a computer engineer from India skilled in <strong>Linux</strong>, <strong>DevOps</strong>, and <strong>Cloud Computing</strong>. I have create some real industrial projects by integrating different tools and technologies. I am <strong>3x Red Hat Certified</strong> and also I am a <strong>Red Hat Certified Engineer</strong>.
+I'm passionate learner diving into the concepts of computing 💻. I am a computer engineer from India skilled in <strong>Linux</strong>, <strong>DevOps</strong>, and <strong>Cloud Computing</strong>. I have create some real industrial projects by integrating different tools and technologies. I am a <strong>AWS Certified Solutions Architect - Associate, Red Hat Certified Engineer(RHCE), Red Hat Certified System Administrator(RHCSA) and 3x Red Hat Certified</strong>.
 
 ## ⚡️ Few Quick Facts
 
